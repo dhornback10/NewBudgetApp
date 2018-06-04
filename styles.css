@@ -1,0 +1,16 @@
+header {
+	display: flex;
+	border: 2px solid red;
+}
+header nav {
+	align-content: space-between;
+	border: 2px solid red;
+}
+
+#welcomeDiv {
+	border: 2px solid red;
+}
+
+#inputsDiv {
+	border: 2px solid blue;
+}
